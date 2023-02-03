@@ -23,8 +23,7 @@
 
 ## Tutorials
 
-<details>
-  <summary>📚 Create your own library and upload it into PyPi</summary>
+## 📚 Create your own library and upload it into PyPi
 
 ## Creating a Library
 In your environment, make sure you have pip installed wheel, setuptools and twine. We will need them for later to build our Python library.
@@ -121,6 +120,6 @@ Some observations:
 - https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
 - https://laxmena.com/posts/publish-pip-package
 
-</details>
+
 
 
