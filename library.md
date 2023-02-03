@@ -1,3 +1,8 @@
+---
+layout: page
+title: library
+---
+
 # Creating a Library and deploying it into PyPi
 
 ## Creating a Library
