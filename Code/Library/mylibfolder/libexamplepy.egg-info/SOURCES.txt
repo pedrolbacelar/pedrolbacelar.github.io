@@ -1,0 +1,8 @@
+README.md
+setup.py
+libexamplepy/MyClass.py
+libexamplepy/__init__.py
+libexamplepy.egg-info/PKG-INFO
+libexamplepy.egg-info/SOURCES.txt
+libexamplepy.egg-info/dependency_links.txt
+libexamplepy.egg-info/top_level.txt
