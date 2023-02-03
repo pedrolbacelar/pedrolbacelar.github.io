@@ -15,6 +15,11 @@
 - (building ...)
 
 ---
+## Tutorial
+
+- [Create your own library and upload it into PyPi](https://github.com/pedrolbacelar/pedrolbacelar.github.io/blob/main/library.md)
+
+---
 ## ☎️ Contacts
 
 ✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/pedro-bacelar-santos-engenharia-poli-usp/)!
