@@ -15,8 +15,6 @@
 - (building ...)
 
 ---
-
----
 ## ☎️ Contacts
 
 ✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/pedro-bacelar-santos-engenharia-poli-usp/)!
