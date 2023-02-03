@@ -17,7 +17,7 @@
 ---
 ## Tutorial
 
-- [Create your own library and upload it into PyPi](https://github.com/pedrolbacelar/pedrolbacelar.github.io/blob/main/library.md)
+- [Create your own library and upload it into PyPi](https://pedrolbacelar.github.io/pedrolbacelar.github.io/library.md)
 
 ---
 ## ☎️ Contacts
