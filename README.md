@@ -58,7 +58,7 @@ The `setup.py` should have simething like this>
 from setuptools import find_packages, setup
 
 setup(
-    name='dtwinpy',
+    name='mylib',
     packages=find_packages(),
     version='0.0.2.4',
     description='Digital Twin Library',
@@ -80,10 +80,10 @@ After running this, 3 new folders will appear in the root of your library:
 
 ### Manually installing the library
 
-In order to munually install the library you just need the path of the file generated within the folder "dist" (`dist\dtwinpy-0.0.2.4-py3-none-any.whl`).
+In order to munually install the library you just need the path of the file generated within the folder "dist" (`dist\mylib-0.0.2.4-py3-none-any.whl`).
 Next you just use the normal commands to install a library using pip or pipenv:
 
-`pip install "dtwinpylib\dist\dtwinpy-0.0.2.4-py3-none-any.whl"`
+`pip install "dtwinpylib\dist\mylib-0.0.2.4-py3-none-any.whl"`
 
 ## Deploying it on PyPi
 
@@ -107,7 +107,7 @@ password= <API Token>
 
 Some observations:
 - If it's the first time of the day uploading to pip you should enter your username and also password
-- You can specify what package are you upload by change the termination like this: `dist/dtwinpy-0.0.2.4-py3-none-any.whl`
+- You can specify what package are you upload by change the termination like this: `dist/mylib-0.0.2.4-py3-none-any.whl`
 
 5. After this you're finished, you can already check in the oficial site of PyPi your library and download it as well just using the normal command of pip `pip install mylib`
 
