@@ -15,6 +15,14 @@
 - (building ...)
 
 ---
+
+---
+## ☎️ Contacts
+
+✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/pedro-bacelar-santos-engenharia-poli-usp/)!
+
+---
+
 ## Tutorials
 
 <details>
@@ -117,11 +125,4 @@ Some observations:
 
 </details>
 
----
-## ☎️ Contacts
 
-✉️ Find me on LinkedIn [here](https://www.linkedin.com/in/pedro-bacelar-santos-engenharia-poli-usp/)!
-
----
-## 📈 GitHub Status
-[![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=pedrolbacelar&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
